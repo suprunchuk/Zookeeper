@@ -1,2 +1,2 @@
 # Zookeeper
-**Kotlin project - Kotlin Basics - JetBrains Academy**
+**Kotlin Basics - JetBrains Academy**
